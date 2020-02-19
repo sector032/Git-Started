@@ -1,0 +1,35 @@
+commit 9c269e356d5af8a10b8af007be0f863dd4dd21bd
+Author: sector032 <szantodavid032@gmail.com>
+Date:   Wed Feb 19 13:26:56 2020 +0100
+
+    Renamed Lorem.txt to lorem_ipsum.txt
+
+commit e3bb886165c2ed2a6ca1d161c0b618a7523192b0
+Author: sector032 <szantodavid032@gmail.com>
+Date:   Wed Feb 19 13:20:51 2020 +0100
+
+    Plus 3 sentences
+
+commit 6bd5612b2c6bb1ae7a941dbcc5e92131ab4702dc
+Author: sector032 <szantodavid032@gmail.com>
+Date:   Wed Feb 19 13:05:53 2020 +0100
+
+    Lorem Ipsum first sentence
+
+commit a83e6db5e887758808b69168ee97cc626a92eceb
+Author: sector032 <szantodavid032@gmail.com>
+Date:   Wed Feb 19 12:59:43 2020 +0100
+
+    Komment
+
+commit 0e6d38dcf0b78a54f087c865bab98ca7bcbea9b1
+Author: sector032 <szantodavid032@gmail.com>
+Date:   Wed Feb 19 12:55:16 2020 +0100
+
+    first commit
+
+commit d53a49b8ce0310a207a8fe5ce51ff42dc9599678
+Author: sector032 <szantodavid032@gmail.com>
+Date:   Wed Feb 19 10:58:43 2020 +0100
+
+    first commit
